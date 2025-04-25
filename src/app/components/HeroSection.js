@@ -88,6 +88,7 @@ export const FlipWords = ({ words, duration = 3000, className }) => {
                 >
                   {letter}
                 </motion.span>
+
               ))}
               <span className="inline-block">&nbsp;</span>
             </motion.span>
